@@ -1,6 +1,6 @@
 {
   "name": "@rajathshttgr/qwiker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A light-weight Promise based HTTP client for the browser and node.js",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/rajathshttgr/qwiker.git"
   },
-  "keywords": ["npm", "api", "http-client"], 
+  "keywords": [
+    "npm",
+    "api",
+    "http-client"
+  ],
   "author": "Rajath Shettigar",
   "license": "MIT",
   "type": "module"
