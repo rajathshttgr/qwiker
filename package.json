@@ -1,6 +1,6 @@
 {
   "name": "@rajathshttgr/qwiker",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A light-weight Promise based HTTP client for the browser and node.js",
   "main": "index.js",
   "scripts": {
